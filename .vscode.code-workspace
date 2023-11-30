@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
